@@ -8,10 +8,14 @@ To generate a simple hash of a given message using a custom hash funcƟon.
 # DESIGN STEPS:
 
 Step 1: Input a message from the user.
+
 Step 2: Use a basic custom hash funcƟon that applies simple operaƟons like XOR and addiƟon on the
 characters of the message.
+
 Step 3: Convert the resulƟng hash into a hexadecimal format.
+
 Step 4: Display the computed hash to the user.
+
 Step 5: OpƟonally verify the hash by recompuƟng it and comparing it with a received hash.
 
 # PROGRAM: 
